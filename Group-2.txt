@@ -1,3 +1,5 @@
 Assalamualaikum sir,
 
 Our project was to detect fruits spoilage detection. This project was really a good project, unfortunately, some of our team member have the carelessness. That's why, the project did not get lay of hope. But at the end of the trimester we did a lot works for the project that's why, the project have a bit completed structure, we have tried our best to train the model through a system UI. But we failed to do this. 
+
+Thank you sir for best companion with us.
